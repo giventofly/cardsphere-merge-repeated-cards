@@ -7,7 +7,7 @@
   "description": "Merges cards with the same name (eventually same configs too) together and gives the total number of them.",
 
   "icons": {
-    "48": "icons/cs.png"
+    "60": "icons/cs.png"
   },
 
   "content_scripts": [
